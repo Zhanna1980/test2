@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Zhanna1980/test2#readme",
   "dependencies": {
     "http-server": "^0.9.0",
+    "opener": "^1.4.2",
     "shelljs": "^0.7.6"
   }
 }
